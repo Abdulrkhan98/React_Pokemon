@@ -1,6 +1,6 @@
 import React from "react";
 import { Pokemon } from "./Pokemon";
-// import "./Responsive.css"
+
 
 const App = () => {
   return (
